@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I am a 
+Hello! I am a 15 year old devloper that is learing and working on mulitible projects and languages.
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 ![TheGamerCoder121's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamerCoder121&show_icons=true&theme=solarized-dark)
