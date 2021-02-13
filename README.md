@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **TheGamerCoder121/TheGamerCoder121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![TheGamerCoder121's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamerCoder121&show_icons=true&theme=radical)
