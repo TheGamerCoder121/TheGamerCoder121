@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I am a 
 
-![TheGamerCoder121's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamerCoder121&show_icons=true&theme=radical)
+
+![TheGamerCoder121's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamerCoder121&show_icons=true&theme=solarized-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGamerCoder121)](https://github.com/anuraghazra/github-readme-stats)
