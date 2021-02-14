@@ -25,7 +25,7 @@ You can find me on [![Twitter][1.2]][1]
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/https://twitter.com/mrgamer48490506
+[1]: https://twitter.com/mrgamer48490506
 
 
 
