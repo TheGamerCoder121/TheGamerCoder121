@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello! I am a 15 year old devloper that is learing and working on mulitible projects and languages.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
@@ -26,7 +26,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/https://twitter.com/mrgamer48490506
-[2]: https://www.linkedin.com/in/heinz-martin/
+
 
 
 ![TheGamerCoder121's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamerCoder121&show_icons=true&theme=solarized-dark)
