@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I am a 15 year old devloper that is learing and working on mulitible projects and languages.
+Hello! I am a 15 year old developer that is learing and working on mulitible projects and languages.
 
 You can find me on [![Twitter][1.2]][1]
 
@@ -26,8 +26,7 @@ You can find me on [![Twitter][1.2]][1]
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/mrgamer48490506
-
-
+[2]: https://mrgamemods.com/discord
 
 ![TheGamerCoder121's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGamerCoder121&show_icons=true&theme=solarized-dark)
 
