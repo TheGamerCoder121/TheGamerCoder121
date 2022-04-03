@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheGamerCoder121](https://github.com/TheGamerCoder121)
 
-- 📫 How to reach me **mrgamer@mrgamemods.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
