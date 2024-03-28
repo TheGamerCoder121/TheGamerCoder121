@@ -36,7 +36,7 @@
  ### 👨‍💻: About Me :
  I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
  
-- 🔭 I'm a 16-year-old tech-savvy whiz kid who's got skills in video editing that would make the pros jealous.
+- 🔭 I'm a 17-year-old tech-savvy whiz kid who's got skills in video editing that would make the pros jealous.
 
 - 🌇 By day, I'm a computer science student mastering the art of coding.
 
